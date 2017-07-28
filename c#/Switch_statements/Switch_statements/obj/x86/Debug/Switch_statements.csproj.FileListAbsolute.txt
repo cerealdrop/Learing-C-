@@ -1,0 +1,11 @@
+C:\Users\victo\Desktop\C#\Switch_statements\Switch_statements\obj\x86\Debug\Switch_statements.csprojResolveAssemblyReference.cache
+C:\Users\victo\Desktop\C#\Switch_statements\Switch_statements\bin\Debug\Switch_statements.exe
+C:\Users\victo\Desktop\C#\Switch_statements\Switch_statements\bin\Debug\Switch_statements.pdb
+C:\Users\victo\Desktop\C#\Switch_statements\Switch_statements\bin\Debug\mscorlib.dll
+C:\Users\victo\Desktop\C#\Switch_statements\Switch_statements\bin\Debug\normidna.nlp
+C:\Users\victo\Desktop\C#\Switch_statements\Switch_statements\bin\Debug\normnfc.nlp
+C:\Users\victo\Desktop\C#\Switch_statements\Switch_statements\bin\Debug\normnfd.nlp
+C:\Users\victo\Desktop\C#\Switch_statements\Switch_statements\bin\Debug\normnfkc.nlp
+C:\Users\victo\Desktop\C#\Switch_statements\Switch_statements\bin\Debug\normnfkd.nlp
+C:\Users\victo\Desktop\C#\Switch_statements\Switch_statements\obj\x86\Debug\Switch_statements.exe
+C:\Users\victo\Desktop\C#\Switch_statements\Switch_statements\obj\x86\Debug\Switch_statements.pdb
