@@ -1,0 +1,4 @@
+C:\Users\victo\Desktop\C#\Learing-C-\c#\dice_game\dice_game\bin\Debug\dice_game.exe
+C:\Users\victo\Desktop\C#\Learing-C-\c#\dice_game\dice_game\bin\Debug\dice_game.pdb
+C:\Users\victo\Desktop\C#\Learing-C-\c#\dice_game\dice_game\obj\x86\Debug\dice_game.exe
+C:\Users\victo\Desktop\C#\Learing-C-\c#\dice_game\dice_game\obj\x86\Debug\dice_game.pdb
