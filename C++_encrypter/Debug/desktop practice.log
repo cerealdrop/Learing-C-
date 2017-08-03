@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\victo\desktop\desktop practice\desktop practice\source.cpp(33): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  desktop practice.vcxproj -> C:\Users\victo\Desktop\desktop practice\Debug\desktop practice.exe
+  desktop practice.vcxproj -> C:\Users\victo\Desktop\desktop practice\Debug\desktop practice.pdb (Full PDB)
